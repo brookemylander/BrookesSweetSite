@@ -1,0 +1,29 @@
+h3 {
+	color:blue;
+}
+h1 {
+	color:purple;
+	font-size: 40px;
+	font-style: bold
+}
+#aboutme {
+	color: black;
+	font-size:15px;
+	font-style: italic;
+}
+body {
+    background-image: url('calm.jpg');
+}
+.title {
+	text-align: center
+}
+#coolphoto {
+	padding:5px;
+   border:10px solid purple;
+   background-color:white;
+}
+#hi {
+	padding:5px;
+   border:10px solid purple;
+   background-color:white;
+}
